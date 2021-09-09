@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,kBACE,UACF,CACA,wBACE,UAAW,CACX,wBAEF","file":"main.7184aa67.chunk.css","sourcesContent":[".cointainer-fluid{\n  opacity:0.5;\n}\n.cointainer-fluid:hover{\n  opacity:0.5;\n  background-color: blueviolet;\n\n}"]}

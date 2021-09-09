@@ -1,0 +1,8 @@
+.cointainer-fluid{
+  opacity:0.5;
+}
+.cointainer-fluid:hover{
+  opacity:0.5;
+  background-color: blueviolet;
+
+}

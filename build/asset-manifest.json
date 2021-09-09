@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/itsarjun11/mytext12/static/css/main.7184aa67.chunk.css",
+    "main.js": "/itsarjun11/mytext12/static/js/main.9f6bad3b.chunk.js",
+    "main.js.map": "/itsarjun11/mytext12/static/js/main.9f6bad3b.chunk.js.map",
+    "runtime-main.js": "/itsarjun11/mytext12/static/js/runtime-main.afb33d50.js",
+    "runtime-main.js.map": "/itsarjun11/mytext12/static/js/runtime-main.afb33d50.js.map",
+    "static/js/2.5b467e4f.chunk.js": "/itsarjun11/mytext12/static/js/2.5b467e4f.chunk.js",
+    "static/js/2.5b467e4f.chunk.js.map": "/itsarjun11/mytext12/static/js/2.5b467e4f.chunk.js.map",
+    "static/js/3.19cc99f8.chunk.js": "/itsarjun11/mytext12/static/js/3.19cc99f8.chunk.js",
+    "static/js/3.19cc99f8.chunk.js.map": "/itsarjun11/mytext12/static/js/3.19cc99f8.chunk.js.map",
+    "index.html": "/itsarjun11/mytext12/index.html",
+    "static/css/main.7184aa67.chunk.css.map": "/itsarjun11/mytext12/static/css/main.7184aa67.chunk.css.map",
+    "static/js/2.5b467e4f.chunk.js.LICENSE.txt": "/itsarjun11/mytext12/static/js/2.5b467e4f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afb33d50.js",
+    "static/js/2.5b467e4f.chunk.js",
+    "static/css/main.7184aa67.chunk.css",
+    "static/js/main.9f6bad3b.chunk.js"
+  ]
+}
